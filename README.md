@@ -9,6 +9,8 @@ Simple REST API app with a Postgres database that lets users to keep to-do lists
 <img width="1212" alt="Screen Shot 2022-11-10 at 00 23 19" src="https://user-images.githubusercontent.com/53175260/200944857-927199c9-2a8d-4ebe-9abc-2960cde9d18b.png">
 <img width="1214" alt="Screen Shot 2022-11-10 at 00 23 37" src="https://user-images.githubusercontent.com/53175260/200944864-a508b400-aa5a-453d-9c65-f584750f4e8c.png">
 
+## Usage
+
 ### How to run:
 
 ```
